@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+###| Data Scientist | Systems Analysis and Development Technician | Python | Jupyter | Databases | SQL | Machine Learning | Data Analysis | Amazon Web Services (AWS) | Software Engineering |
 <!--
 **JuuJ12/JuuJ12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
